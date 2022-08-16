@@ -2,7 +2,7 @@ Motor-And-Servo-Driver-HAT from seengreat:www.seengreat.com
  ==========================================
 # Instructions
 ## 1.1、Overview
-    Motor And Servo Driver HAT is an module of  DC motor and servo driver specially designed for Raspberry Pi. This module can drive 2 channels of DC motors and 6 channels of servos at the same time. It can make the desired function come true only through the I2C protocol control register<br>
+Motor And Servo Driver HAT is an module of  DC motor and servo driver specially designed for Raspberry Pi. This module can drive 2 channels of DC motors and 6 channels of servos at the same time. It can make the desired function come true only through the I2C protocol control register<br>
 ## 1.2、Parameters
 Supply Voltage：6V~12V(VIN terminal or pin)<br>
 Logic Voltage：3.3V<br>
